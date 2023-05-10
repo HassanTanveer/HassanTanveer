@@ -10,7 +10,12 @@ I am a software engineer with experience in developing web applications using Re
 
 ## 🛠 Skills
 ### Programming Languages
-Python, JavaScript, TypeScript, HTML, C++, SQL
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
 ### Frontend Frameworks
 React, Redux, React Native, MUI, Bootstrap, Tailwind
