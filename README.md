@@ -23,17 +23,33 @@ I am a software engineer with experience in developing web applications using Re
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend Frameworks
-Django, Django Rest Framework, NodeJS, MongoDB, ExpressJS, MySQL
+### Backend Frameworks:
+- Django ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+- Django Rest Framework ![DRF](https://img.shields.io/badge/-Django_Rest_Framework-092E20?logo=django&logoColor=white)
+- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- ExpressJS ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-### Testing Frameworks
-Jest, PyTest, Selenium
+### Testing Frameworks:
+- Jest ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+- PyTest ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?logo=python&logoColor=white)
+- Selenium ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 
-### Tools
-Docker, AWS, Jenkins, Jira, NewRelic, GitHub
+### Tools:
+- Docker ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- AWS ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+- Jenkins ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+- Jira ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+- NewRelic ![NewRelic](https://img.shields.io/badge/-NewRelic-008C99?logo=newrelic&logoColor=white)
+- GitHub ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-### Python Libraries
-Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
+### Python Libraries:
+- Pandas ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+- NumPy ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+- Scikit-learn ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+- PyTorch ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+- TensorFlow ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
 ## 🔭 Experience
 ### Software Engineer - LitmusTest
