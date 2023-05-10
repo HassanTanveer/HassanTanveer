@@ -3,8 +3,6 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hassantanveer)](https://github.com/hassantanveer97)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan-tanveer-se)](https://www.linkedin.com/in/hassan-tanveer-se)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassantanveer97&show_icons=true&theme=radical&count_private=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://ghchart.rshah.org/hassantanveer97" alt="2016rshah's Github chart" />
 
 ## 🚀 About Me
