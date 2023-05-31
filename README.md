@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Muhammad Hassan Tanveer!
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&&logo=GitHub&logoColor=white&link=https://github.com/hassantanveer)](https://github.com/hassantanveer97)
+[![GitHub Badge](https://img.shields.io/badge/-Work_GitHub-181717?style=for-the-badge&&logo=GitHub&logoColor=white&link=https://github.com/hassantanveer)](https://github.com/hassantanveer97)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&e&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan-tanveer-se)](https://www.linkedin.com/in/hassan-tanveer-se)
 
 <img src="https://ghchart.rshah.org/hassantanveer97" alt="2016rshah's Github chart" />
